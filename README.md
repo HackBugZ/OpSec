@@ -1,9 +1,9 @@
 <p align="center">
-<h3><b>OpSec (Operational Security)</b></h3>h3>
+<h3><b>OpSec (Operational Security)</b></h3>
 </p>
 <p align="center">
 Die unsichtbare Bedrohung | Wie OpSec (Operational Security) Sie und Ihre Informationen schützt 
-
+<br>
 Herzlich Willkommen zur Buchreihe "DevOps Hacker"!
 </p>
 
@@ -73,6 +73,7 @@ sicherzustellen, dass Informationen und Systeme weiterhin sicher sind.
 Es erfordert eine ganzheitliche Betrachtungsweise und Zusammenarbeit zwischen verschiedenen
 Abteilungen, Personen und Funktionen innerhalb eines Unternehmens oder einer Organisation, um
 die Sicherheit von Informationen zu gewährleisten.
+
 <b>
 “hacking means, find a solution for a problem or find a problem for a solution!“
 
@@ -80,6 +81,11 @@ die Sicherheit von Informationen zu gewährleisten.
 
 (HackBugZ | 2001)
 </b>
+
+<p align="center">
+  <img src="https://blockchain-office.de/assets/img/github/z4o_TUX.png" width="180px">
+</p>
+
 Wenn Sie Fehler finden, Anregungen haben oder Hilfe benötigen, können Sie mich gerne
 kontaktieren.
 
