@@ -1,7 +1,15 @@
-# OpSec
- Die unsichtbare Bedrohung | Wie OpSec (Operational Security) Sie und Ihre Informationen schützt 
+<p align="center">
+<h3><b>OpSec (Operational Security)</b></h3>h3>
+</p>
+<p align="center">
+Die unsichtbare Bedrohung | Wie OpSec (Operational Security) Sie und Ihre Informationen schützt 
 
 Herzlich Willkommen zur Buchreihe "DevOps Hacker"!
+</p>
+
+<p align="center">
+  <img src="https://blockchain-office.de/assets/img/github/OpSec_DevOps_Hacker.png" width="180px">
+</p>
 
 In dieser Reihe möchten ich Ihnen einen umfassenden Einblick in die Welt der DevOps Hacker
 geben und Ihnen zeigen, wie Sie mithilfe von DevOps-Praktiken und Hacking-Techniken die
@@ -65,13 +73,13 @@ sicherzustellen, dass Informationen und Systeme weiterhin sicher sind.
 Es erfordert eine ganzheitliche Betrachtungsweise und Zusammenarbeit zwischen verschiedenen
 Abteilungen, Personen und Funktionen innerhalb eines Unternehmens oder einer Organisation, um
 die Sicherheit von Informationen zu gewährleisten.
-
+<b>
 “hacking means, find a solution for a problem or find a problem for a solution!“
 
 “without fantasy you are only a standard dev“
 
 (HackBugZ | 2001)
-
+</b>
 Wenn Sie Fehler finden, Anregungen haben oder Hilfe benötigen, können Sie mich gerne
 kontaktieren.
 
