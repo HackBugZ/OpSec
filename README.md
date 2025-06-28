@@ -1,5 +1,5 @@
 <p align="center">
-<h3><b>OpSec (Operational Security)</b></h3>
+<b>OpSec (Operational Security)</b>
 </p>
 <p align="center">
 Die unsichtbare Bedrohung | Wie OpSec (Operational Security) Sie und Ihre Informationen schützt 
